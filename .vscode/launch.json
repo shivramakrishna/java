@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pc",
+            "request": "launch",
+            "mainClass": "pc",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "Fac",
+            "request": "launch",
+            "mainClass": "Fac",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "methodrr",
+            "request": "launch",
+            "mainClass": "methodrr",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "overloading",
+            "request": "launch",
+            "mainClass": "overloading",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "day",
+            "request": "launch",
+            "mainClass": "day",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "Multiplication",
+            "request": "launch",
+            "mainClass": "Multiplication",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "menu",
+            "request": "launch",
+            "mainClass": "menu",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "MultipleInheritance",
+            "request": "launch",
+            "mainClass": "MultipleInheritance",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "Animal2Vehicle",
+            "request": "launch",
+            "mainClass": "Animal2Vehicle",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "Animal2",
+            "request": "launch",
+            "mainClass": "Animal2",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "animal2",
+            "request": "launch",
+            "mainClass": "animal2",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java_735beff2"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "java_735beff2"
+        }
+    ]
+}

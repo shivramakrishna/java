@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "img-link-checker": "^1.1.0"
+  },
+  "dependencies": {
+    "art-rest-client": "^1.10.0",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.2.0"
+  }
+}
